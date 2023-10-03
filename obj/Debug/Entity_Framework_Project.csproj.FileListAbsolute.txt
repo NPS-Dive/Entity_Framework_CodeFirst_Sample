@@ -1,0 +1,15 @@
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\bin\Debug\Entity_Framework_Project.exe.config
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\bin\Debug\Entity_Framework_Project.exe
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\bin\Debug\Entity_Framework_Project.pdb
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\bin\Debug\EntityFramework.dll
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\bin\Debug\EntityFramework.xml
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\obj\Debug\Entity_Framework_Project.csproj.AssemblyReference.cache
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\obj\Debug\Entity_Framework_Project.Form1.resources
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\obj\Debug\Entity_Framework_Project.Properties.Resources.resources
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\obj\Debug\Entity_Framework_Project.csproj.GenerateResource.cache
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\obj\Debug\Entity_Framework_Project.csproj.CoreCompileInputs.cache
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\obj\Debug\Entity_Framework_Project.csproj.CopyComplete
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\obj\Debug\Entity_Framework_Project.exe
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\Practice_01\Entity_Framework_Project\obj\Debug\Entity_Framework_Project.pdb
